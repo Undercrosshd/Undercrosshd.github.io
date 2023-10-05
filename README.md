@@ -1,3 +1,3 @@
 # Movie App
 
-React JS Fundmentals Course (2021.01.04 Update!)
+React JS로 영화 웹 서비스 만들기
